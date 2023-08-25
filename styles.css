@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+aside{
+    width: 20%;
+    height:20%;
+    display:block;
+    position:relative;
+    
+}
+main{
+    width: 20%;
+    height:20%;
+    display:block;
+    position:relative;
+    left:10px;
+    
+}
+#indio1{
+    width:500px;
+    height:500px;
+}
+#indio2{
+    width:1200px;
+    height:500px;
+    margin-left: -1010px;
+
+}
+footer{
+    font-size: xx-large;
+}
+.margem{
+    padding: 20px;
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
